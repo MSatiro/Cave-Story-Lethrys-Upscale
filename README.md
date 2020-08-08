@@ -5,7 +5,7 @@ A built-from-scratch, 2xRes upscale of Cave Story, intended for community use.
 
 Here's a list of the spritesheets that are 100% done (or at least, have all of the **used** sprites upscaled). Any spritesheets not on this list can range from 'almost done' to 'not even touched yet', though almost all of them have at least some work done on them.
 
-47/100
+48/100
 
 - Arms
 - ArmsImage
@@ -46,6 +46,7 @@ Here's a list of the spritesheets that are 100% done (or at least, have all of t
 - NpcRed
 - NpcRegu
 - NpcStream
+- NpcSym
 - NpcToro
 
 - Prt0
