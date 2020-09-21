@@ -43,6 +43,7 @@ Here's a list of the spritesheets that are 100% done (or at least, have all of t
 - NpcGuest
 - NpcHeri
 - NpcIronH
+- NpcIsland
 - NpcKings
 - NpcPlant
 - NpcPress
