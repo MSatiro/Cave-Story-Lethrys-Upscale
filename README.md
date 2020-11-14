@@ -3,97 +3,25 @@ A built-from-scratch, 2xRes upscale of Cave Story, intended for community use.
 
 ![Screenshot](screenshot.png)
 
-Here's a list of the spritesheets that are 100% done (or at least, have all of the **used** sprites upscaled). Any spritesheets not on this list can range from 'almost done' to 'not even touched yet', though almost all of them have at least some work done on them.
+88/104
 
-87/104
+The base game is now entirely completed aside from the credits illustrations.
 
-- Arms
-- ArmsImage
-- bk0
-- bkBlack
-- bkBlue
-- bkFall
-- bkFog
-- bkGard
-- bkGray
-- bkGreen
-- bkMaze
-- bkMoon
-- bkRed
-- bkWater
-- Bullet
-- Caret
-- casts
-- Face
-- Fade
-- ItemImage
-- Loading
-- MyChar
-- StageImage
-- TextBox
-- Title
+Spritesheets left to finish:
 
-- Npc0
-- NpcAlmo1
-- NpcAlmo2
-- NpcBallos
-- NpcBllg
-- NpcCemet
-- NpcCent
-- NpcCurly
-- NpcDark
-- NpcDr
-- NpcEggs1
-- NpcEggs2
-- NpcFrog
-- NpcGuest
-- NpcHell
-- NpcHeri
-- NpcIronH
-- NpcIsland
-- NpcKings
-- NpcMaze
-- NpcMiza
-- NpcMoon
-- NpcOmg
-- NpcPlant
-- NpcPress
-- NpcPriest
-- NpcRavil
-- NpcRed
-- NpcRegu
-- NpcSand
-- NpcStream
-- NpcSym
-- NpcToro
-- NpcTwinD
-- NpcWeed
-- NpcX
-
-- Prt0
-- PrtAlmond
-- PrtBarr
-- PrtCave
-- PrtCent
-- PrtEggIn
-- PrtEggx
-- PrtFall
-- PrtGard
-- PrtHell
-- PrtJail
-- PrtLabo
-- PrtMaze
-- PrtMimi
-- PrtOside
-- PrtPens
-- PrtRiver
-- PrtSand
-- PrtStore
-- PrtWeed
-- PrtWhite
-
-- CREDIT09
-- CREDIT12
-- CREDIT15
-- CREDIT16
-- Pixel
+- CREDIT01
+- CREDIT01b
+- CREDIT02
+- CREDIT02b
+- CREDIT03
+- CREDIT03b
+- CREDIT04
+- CREDIT05
+- CREDIT06
+- CREDIT07
+- CREDIT08
+- CREDIT10
+- CREDIT11
+- CREDIT14
+- CREDIT17
+- CREDIT18
