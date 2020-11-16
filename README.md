@@ -9,7 +9,6 @@ The base game is now entirely completed aside from the credits illustrations.
 
 Spritesheets left to finish:
 
-- CREDIT01
 - CREDIT01b
 - CREDIT02
 - CREDIT02b
