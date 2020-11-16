@@ -3,7 +3,7 @@ A built-from-scratch, 2xRes upscale of Cave Story, intended for community use.
 
 ![Screenshot](screenshot.png)
 
-88/104
+89/104
 
 The base game is now entirely completed aside from the credits illustrations.
 
